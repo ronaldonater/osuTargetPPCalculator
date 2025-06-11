@@ -18,8 +18,8 @@ import requests
 import json
 
 # osu! API v2 Configuration (optional - leave as-is for manual input)
-CLIENT_ID = "41041"
-CLIENT_SECRET = "RH5sL4kInLUCi5Z3lePrvPvR0w1zYa7b0T87v92F"
+CLIENT_ID = ""
+CLIENT_SECRET = ""
 API_BASE_URL = "https://osu.ppy.sh/api/v2"
 
 class OsuPPCalculator:
